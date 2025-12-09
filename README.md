@@ -35,4 +35,6 @@ Organizations often struggle to monitor unauthorized access or misuse of sensiti
 
 -phase 4 https://github.com/Nelligan01/Security-Violation-Notifier/blob/main/FINAL%20PROJECT_SVN/PHASE%204/DOCS/README_PHASE4.md.
 
--phase 5 https://github.com/Nelligan01/Security-Violation-Notifier/blob/main/FINAL%20PROJECT_SVN/PHASE%205/phase%205_SVN_C27960_DOCUMENTATION.pdf
+-phase 5 https://github.com/Nelligan01/Security-Violation-Notifier/blob/main/FINAL%20PROJECT_SVN/PHASE%205/phase%205_SVN_C27960_DOCUMENTATION.pdf.
+
+-phase 6 https://github.com/Nelligan01/Security-Violation-Notifier/blob/main/FINAL%20PROJECT_SVN/PHASE%206/phase%206_SVN_C27960_DOCUMENTATION.pdf
