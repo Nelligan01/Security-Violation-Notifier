@@ -27,3 +27,6 @@ Organizations often struggle to monitor unauthorized access or misuse of sensiti
 - PL/SQL packages with procedures and functions for modularity.
 - Cursor-based reporting for analytics.
 - Business Intelligence (BI) dashboard mockups (optional).
+
+## links to documentation
+-phase 2 https://github.com/Nelligan01/Security-Violation-Notifier/tree/main/FINAL%20PROJECT_SVN/PHASE%202
